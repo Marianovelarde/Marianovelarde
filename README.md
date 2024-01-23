@@ -1,5 +1,5 @@
 ### Hi there 👋
-# ** ** A first-level heading ¡Hola! Mi nombre es Mariano, Nicolás Velarde
+# ** ** A first-level heading:  ¡Hola! Mi nombre es Mariano, Nicolás Velarde
 Here is a simple footnote[^1].
 
 ## A second-level heading ¿Quien Soy?
