@@ -40,10 +40,10 @@ De esta manera voy mejorando mi c√≥digo y las habilidades de  actuales tecnolog√
   - Postman
   - Insonmia
 
-  ## A second-level Contacto:
+  ##  Contacto:
  
-  Linkedin: https://www.linkedin.com/mariano-velarde-fullstack
-  Gmail: marianovelarde37@gmail.com
+  - Linkedin: https://www.linkedin.com/mariano-velarde-fullstack
+  - Gmail: marianovelarde37@gmail.com
   
 
 
