@@ -18,7 +18,7 @@ De esta manera voy mejorando mi código y las habilidades de  actuales tecnolog�
 - Seguir aprendiendo y manteniendome al margen de las nuevas tendencias técnologicas.
 
 
-- Mi proximo objetivo academico por concretar es la tecnicatura en PROGRAMACIÓN en un instituto de la provincia de Santiago Del estero.
+
 ## Tecnologías que uso:
 
 - HTML
