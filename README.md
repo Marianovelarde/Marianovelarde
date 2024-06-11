@@ -4,8 +4,8 @@
 
 ## ¿Quien Soy?
 
-Soy Desarrollador Web Orientado a front end y Back end y soy de la ciudad de Santiago Del Estero, Argentina 🇦🇷  . Desde chico mi curiosidad por la tecnología y pasión por resolver problemas me llevó a reparar muchos artefactos electricos y electrónicos que eran juguetes o artefactos domesticos; luego con mi primera computadora me dedique a entender sobre las nociones básicas de software y hardware, y así comencé a resolver los problemas que sucedian en mi PC. Luego en la escuela secundaría pude aprender sobre HTML, CSS. Quedé fascinado.
- El primer lenguaje de programación con el que tuve contacto fue JAVASCRIPT y creo que es excelente para comenzar a conocer el mundo de la programación. De esta manera se despertó mi interés por la programación reviviendo aquellos sentimientos y curiosidades de la niñez y adolescencía. 
+Soy Desarrollador Web Orientado a front end y Back end y soy de la ciudad de Santiago Del Estero, Argentina 🇦🇷  .
+Soy una persona a la cual la impulsa la curiosidad y el deseo de aprender, esto me lleva a estar en constante aprendizaje de nuevas tecnologías para tener diferentes enfoques y resolver problemas. También me destaco por mi capacidad para colaborar en equipos de trabajo, cumpliendo objetivos en tiempo y forma mediante metodologías agiles. Me adapto rápidamente a los cambios asumiendo responsabilidades con proactividad.
 
 ## En la actualidad 
 
@@ -17,9 +17,11 @@ De esta manera voy mejorando mi código y las habilidades de  actuales tecnolog�
 - Mis objetivos consisten en poder plasmar mis conocimientos y habilidades en un trabajo IT. 
 - Seguir aprendiendo y manteniendome al margen de las nuevas tendencias técnologicas.
 
+## Educación 🎓: 
+- Academia numen | (Desarrollador web) enero 2020- enero 2021
+- Bootcamp Soy Henry | Desarrollador web full stack
 
-
-## Tecnologías que uso:
+## Tecnologías que uso para programar 🧑‍💻:
 
 - HTML
 - CSS
@@ -39,12 +41,12 @@ De esta manera voy mejorando mi código y las habilidades de  actuales tecnolog�
   - Vercel
   - Postman
   - Insonmia
-  ## Proyecto destacado:
+  ## Proyecto destacado 🚀:
   Este es un proyecto final del bootcamp de soy henry.
   Se trata de un proyecto ecommerce de articulos tech
   
     https://main.d1v4o3mt97tf62.amplifyapp.com/
-  ##  Contacto:
+  ##  Contacto 📱:
  
   - Linkedin: https://www.linkedin.com/mariano-velarde-fullstack
   - Gmail: marianovelarde37@gmail.com
