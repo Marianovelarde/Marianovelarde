@@ -39,7 +39,11 @@ De esta manera voy mejorando mi c√≥digo y las habilidades de  actuales tecnolog√
   - Vercel
   - Postman
   - Insonmia
-
+  ## Proyecto destacado:
+  Este es un proyecto final del bootcamp de soy henry.
+  Se trata de un proyecto ecommerce de articulos tech
+  
+    https://main.d1v4o3mt97tf62.amplifyapp.com/
   ##  Contacto:
  
   - Linkedin: https://www.linkedin.com/mariano-velarde-fullstack
