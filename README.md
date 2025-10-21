@@ -53,6 +53,8 @@ De esta manera voy mejorando mi código y las habilidades de  actuales tecnolog�
   Se trata de un proyecto ecommerce de articulos tech
   
     https://main.d1v4o3mt97tf62.amplifyapp.com/
+  ## Portfolio: 
+  https://porfolio-2024-taupe.vercel.app/
   ##  Contacto 📱:
  
   - Linkedin: https://www.linkedin.com/mariano-velarde-fullstack
