@@ -55,6 +55,8 @@ De esta manera voy mejorando mi código y las habilidades de  actuales tecnolog�
     https://main.d1v4o3mt97tf62.amplifyapp.com/
   ## Portfolio: 
   https://porfolio-2024-taupe.vercel.app/
+  ## Proyecto tep (Total Education Programa) pasantia en kiura
+  https://tep-eight.vercel.app/login
   ##  Contacto 📱:
  
   - Linkedin: https://www.linkedin.com/mariano-velarde-fullstack
