@@ -20,8 +20,12 @@ De esta manera voy mejorando mi código y las habilidades de  actuales tecnolog�
 ## Educación 🎓: 
 - Academia numen | (Desarrollador web) enero 2020- enero 2021
 - Bootcamp Soy Henry | Desarrollador web full stack
+## Experiencia: 
+- Frontend development en Becode (pasantia) 6 meses
+- Backend development en kiura (pasantia) 6 meses
 
 ## Tecnologías que uso para programar 🧑‍💻:
+
 
 - HTML
 - CSS
@@ -35,12 +39,15 @@ De esta manera voy mejorando mi código y las habilidades de  actuales tecnolog�
 - SEQUELIZE
 - POSTGRESQL
 
+
+
   Herramientas:
   - Git
   - GitHub
   - Vercel
   - Postman
   - Insonmia
+  - AWS
   ## Proyecto destacado 🚀:
   Este es un proyecto final del bootcamp de soy henry.
   Se trata de un proyecto ecommerce de articulos tech
